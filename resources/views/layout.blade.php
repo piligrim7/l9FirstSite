@@ -14,7 +14,7 @@
 			<a class="p-2 text-white" href="/">Главная</a>
 			<a class="p-2 text-white" href="/about">О нас</a>
 		</nav>
-		<a class="btn btn-warning" href="/review">Отзывы</a> 
+<a class="btn btn-warning" href="/review">Отзывы</a> 
 	</div>
 	<div class="container">@yield('main_content')</div>
 </body>
